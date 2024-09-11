@@ -9,7 +9,7 @@
 <tr>
   <td>1</td>
   <td>Pierwsza strona</td>
-  <td>img src=...</td>
+  <td>img src=</td>
   <td>11.09.2024</td>
 </tr>
 <tr>
