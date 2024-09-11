@@ -4,8 +4,13 @@
 <tr>
   <td>Liczba porządkowa</td>
   <td>Nazwa projektu(Link)</td>
-  <th>Pierwsza strona</th>
-  <th>Data/th></>
+  <th>Miniaturka</th>
+  <th>Data</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>Pierwsza strona</td>
+  <td>img src=...</td>
 </tr>
 
 <table>
