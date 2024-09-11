@@ -1,7 +1,7 @@
 # Nam Tymur 1-tp
 
 <table>
-<tr>
+<tr style=”background-color:#7F96FF;color:#ffffff;”>
   <td>Liczba porządkowa</td>
   <td>Nazwa projektu(Link)</td>
   <th>Miniaturka</th>
