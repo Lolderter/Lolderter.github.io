@@ -25,34 +25,3 @@
   <td></td>
 </tr>
 
-#1
-<table>
-
-<table>
-<tr rowspan="2">
-  <td></td>
-  <td></td>
-  <th></th>
-  <th></th>
-</tr>
-<tr>
-  <td>1</td>
-  <td></td>
-  <td>=</td>
-  <td></td>
-</tr>
-<tr>
-  <td>2</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>3</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-
-
-<table>
